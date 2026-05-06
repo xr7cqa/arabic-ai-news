@@ -207,3 +207,9 @@ Subscribe now and stay ahead of every major AI development — daily, in Arabic.
 ---
 
 **Tags:** #AI #ArtificialIntelligence #ChatGPT #Claude #Gemini #Grok #OpenAI #Anthropic #PromptEngineering #ArabicAI #الذكاء_الاصطناعي #تشات_جي_بي_تي #ذكاء_اصطناعي_عربي
+---
+## 🌐 الموقع الرئيسي
+
+الدليل الكامل للقنوات التقنية العربية:
+
+https://xr7cqa.github.io
