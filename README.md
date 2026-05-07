@@ -213,3 +213,10 @@ Subscribe now and stay ahead of every major AI development — daily, in Arabic.
 الدليل الكامل للقنوات التقنية العربية:
 
 https://xr7cqa.github.io
+---
+
+## 🌐 الصفحة التعريفية
+
+صفحة تعريفية مفصلة عن قناة أخبار الذكاء الاصطناعي بالعربية:
+
+https://xr7cqa.github.io/arabic-ai-news.html
